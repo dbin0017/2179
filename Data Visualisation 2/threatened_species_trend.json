@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 550,
   "height": 300,
-  "title": "Growth of Threatened Species in Australia (2007 - 2019)",
+  "title": "Threatened Species Trend in Australia (2007 - 2019)",
   "data": {
     "url": "https://raw.githubusercontent.com/dbin0017/2179/main/Data%20Visualisation%202/threatened_species_trends_long.csv",
     "format": {"type": "csv"}
